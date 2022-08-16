@@ -1,6 +1,6 @@
 - I’m @MakeshiftCereal
 - I like making programs and applications
-- Im learning Python and I plan on learning C#
+- Im learning Python and I plan on learning C#, Rust, and maybe C
 - 📫 How to reach me ... no
 
 <!---
